@@ -17,9 +17,9 @@ root/
 |    |-- inference.py      # Script for model inference
 |    |-- model.py          # Defines the BART model structure
 |
-|-- Model/                 # Directory to store the fine-tuned BART model
+|-- Model/                 # Directory to store the fine-tuned BART model(model.safetensors not uploaded due to its size)
 |
-|-- results/               # Saves fine-tuning checkpoints(Due to it's size it's not uploaded)
+|-- results/               # Saves fine-tuning checkpoints(empty due to its size)
 |
 |-- templates/             # Contains HTML template for Flask app
 |    |-- index.html        # Main HTML file for the web interface

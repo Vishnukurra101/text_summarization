@@ -1,5 +1,6 @@
 Model/model.safetensors
 
-results/
+results/*
+!results/.empty
 
 text-summarization.ipynb
