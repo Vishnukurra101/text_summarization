@@ -19,7 +19,7 @@ root/
 |
 |-- Model/                 # Directory to store the fine-tuned BART model
 |
-|-- results/               # Saves fine-tuning checkpoints
+|-- results/               # Saves fine-tuning checkpoints(Due to it's size it's not uploaded)
 |
 |-- templates/             # Contains HTML template for Flask app
 |    |-- index.html        # Main HTML file for the web interface
