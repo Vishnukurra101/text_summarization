@@ -27,7 +27,6 @@ root/
 |-- README.md              # Project documentation (this file)
 |-- requirements.txt       # Required Python libraries
 |-- run_app.py             # Flask app to generate text summaries
-|-- text-summarization.ipynb  # Jupyter Notebook for experimentation
 ```
 
 ---
